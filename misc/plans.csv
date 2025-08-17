@@ -1,0 +1,7 @@
+plan_id,name,billing_cycle,price,trial_days,features
+c55ebfae-af13-45e0-904f-c57ed6dfd583,Basic,monthly,20,14,"{""api_access"": false, ""premium_support"": false, ""user_seats"": 5, ""storage_gb"": 10}"
+32b15e00-876d-4375-87b9-7dd44fe61f63,Basic,annual,208.96,14,"{""api_access"": false, ""premium_support"": false, ""user_seats"": 5, ""storage_gb"": 10}"
+8e481eae-2a55-4b20-96f7-2f696903aef1,Pro,monthly,50,14,"{""api_access"": true, ""premium_support"": false, ""user_seats"": 25, ""storage_gb"": 100}"
+2e320402-1f28-4910-a881-e7345f8a0afc,Pro,annual,508.7,14,"{""api_access"": true, ""premium_support"": false, ""user_seats"": 25, ""storage_gb"": 100}"
+eb19d54f-75b5-4e5e-882b-89d761f1a132,Enterprise,monthly,100,30,"{""api_access"": true, ""premium_support"": true, ""user_seats"": 100, ""storage_gb"": 1000}"
+642d8371-5b48-4ceb-b09f-8a960abe502a,Enterprise,annual,1059.44,30,"{""api_access"": true, ""premium_support"": true, ""user_seats"": 100, ""storage_gb"": 1000}"
